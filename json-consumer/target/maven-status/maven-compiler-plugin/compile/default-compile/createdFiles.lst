@@ -1,0 +1,4 @@
+com\example\json_consumer\listener\JsonListener.class
+com\example\json_consumer\model\Payment.class
+com\example\json_consumer\config\JsonConsumerConfig.class
+com\example\json_consumer\JsonConsumerApplication.class
